@@ -5,4 +5,4 @@ Steps to Run
 4> Run LaunchBrowser.java (Class)
 
 
-Testcases are also Uploaded in the Repo You van find the Testcase excel sheet
+Test Cases are also Uploaded in the Repo You can find the Testcase Excel sheet
